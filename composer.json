@@ -1,0 +1,6 @@
+{
+    "name": "nection/tauler_api",
+    "type": "drupal-module",
+    "description": "Mòdul personalitzat tauler_api",
+    "license": "GPL-2.0-or-later"
+}
